@@ -14,7 +14,7 @@ The main objective of this project is to build a supervised machine learning mod
 - Starting with Data cleaning, Data Loading and Initial Inspection.
   - Load raw CSV data using pandas.
   - Inspect the first few rows and generate descriptive statistics.
-- Data Cleaning and Preprocessing
+- Data Preprocessing
   - Drop irrelevant columns like Model.
   - Handle missing values by removing incomplete rows.
   - Visualize distributions of numerical variables (Price, Mileage, EngineV, Year).
