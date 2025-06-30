@@ -42,5 +42,5 @@ The main objective of this project is to build a supervised machine learning mod
 
 ## Final conclusion
 This project showed us that with the right data and a bit of cleaning, we can actually predict used car prices pretty accurately using just a few key features like the car’s age, mileage, and engine size.
-What’s more important is that the model isn’t just good at math—it gives us real, useful insights we can act on. For example, newer cars and those with lower mileage clearly hold more value, so we should focus on getting more of those in our inventory. We also saw how messy data and outlier prices can throw everything off, which tells us that keeping our records clean is just as important as the model itself.
-In the end, this isn’t just about building a model. It’s about using data to make smarter, more confident decisions—whether that’s pricing vehicles, buying inventory, or just understanding what really drives value in the cars we sell. This is a solid step toward running a more efficient and customer-focused business.
+What’s more important is that the model isn’t just good at math—it gives us real, useful insights we can act on. For example, newer cars and those with lower mileage clearly hold more value, so we should focus on getting more of those in our inventory. We also saw how messy data and outlier prices can throw everything off, which tells us that keeping the records (data) clean is just as important as the model itself.
+
