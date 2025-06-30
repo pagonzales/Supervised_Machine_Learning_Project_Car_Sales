@@ -26,7 +26,6 @@ The main objective of this project is to build a supervised machine learning mod
   - Apply a log transformation to the Price variable to achieve a more linear relationship with predictors.
 - Model Preparation (continuation in further cells)
    - Use train/test split, fitting the model, evaluating metrics such as R², residual analysis to know if the mathematical model is a good a approximation.
-## Image
 
 ## Project insights
 - Newer Cars Are Worth the Investment
