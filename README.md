@@ -15,7 +15,7 @@ The main objective of this project is to build a supervised machine learning mod
   - Load raw CSV data using pandas.
   - Inspect the first few rows and generate descriptive statistics.
 - Data Preprocessing
-  - Drop irrelevant columns like Model.
+  - Drop irrelevant columns like "Model" of cars.
   - Handle missing values by removing incomplete rows.
   - Visualize distributions of numerical variables (Price, Mileage, EngineV, Year).
 - Outlier Removal
